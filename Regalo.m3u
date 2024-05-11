@@ -1,4 +1,6 @@
 #EXTM3U
+
+#EXTINF:-1,:::::: Canales Variados ::::::
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13 Entretención (720p)
@@ -428,6 +430,650 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Classic Movies (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
 
+
+#EXTINF:-1,:::::: Peliculas Variadas ::::::
+#EXTINF:-1 tvg-id="" tvg-name="A.I Inteligencia Artificial 2001" tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/A_I_Artificial_Intelligence_poster_espaol.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",A.I Inteligencia Artificial 2001
+http://archive.org/download/202209_20220918_1346/Inteligencia%20artificial.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Abril Y El Mundo Extraordinario 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4o4E1Jyllx9J5TOYmChsS4Jjvvs.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",A.I Abril Y El Mundo Extraordinario 2015 (AnimaciÃ³n)
+http://archive.org/download/20221002_20221002_0722/abril%20y%20el%20mundo%20extraordinario.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Adictos Al Amor 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dXZdt79XwGvyxNe1kv9G4FN9suX.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",Adictos Al Amor 1997 (Romance)
+http://archive.org/download/20221002_20221002_0815/adictos%20al%20amor.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Animatrix 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3vq0XC4a7C1IRqpnI2tdfkuMB7g.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Animatrix 2013 (Anime)
+http://archive.org/download/20221002_20221002_0821/animatrix.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ant Bully Las Aventuras De Lucas 2006" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9OnDzKX1guuePRow1mz1JyWAOwi.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Ant Bully Las Aventuras De Lucas 2006 (Animacion)
+http://archive.org/download/20221002_20221002_0828/ant%20bully.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Aprendice Fuera De Linea" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ArwxylwEfw7xE17FJZnxbMKG4eH.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Aprendice Fuera De Linea
+http://archive.org/download/20220918_20220918_1952/Aprendices%20fuera%20de%20l%C3%ADnea.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Atlantis El Regreso De Milo 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Atlantis El Regreso De Milo 2003 (Animacion)
+http://archive.org/download/20220918_20220918_2011/Atlantis%20El%20regreso%20de%20Milo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bambi 1 1942" tvg-logo="https://pics.filmaffinity.com/Bambi-416541061-large.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Bambi 1 1942 (Animacion)
+http://archive.org/download/202209_20220918_2029/bambi.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bambi 2 El Gran Principe Del Bosque 2006" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzavkkRXzm5iNWrKP3coHLgR4qaPUCbRvGijThq2M0szhXQ7k" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Bambi 2 El Gran Principe Del Bosque 2006 (Animacion)
+http://archive.org/download/2_202209/bambi%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Beowulf 2007" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wb3ElIvaek5Ou8HeMaF0H0q0Kud.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Beowulf 2007 (Anime)
+http://archive.org/download/202209_20220918_2108/Beowulf.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Blanca Nieves Y Los Siete Enanos 1937" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Blanca Nieves Y Los Siete Enanos 1937 (Animacion)
+http://archive.org/download/202209_20220918_2101/blanca%20nieves.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Constantine 2005" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9bIvXIAf2i7NRMnrGowMhJJzPuY.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Constantine 2005 (Fantasia)
+http://archive.org/download/202209_20220918_2258/Constantine.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Cuernos 2013" tvg-logo="https://pics.filmaffinity.com/horns-446321673-mmed.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Cuernos 2013 (Suspenso)
+http://archive.org/download/202209_20220918_2312/Cuernos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Daniel El Travieso Vacaciones En El Mar 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ylHTi1MNLf5V8nUHQFRt7rQLene.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Daniel El Travieso Vacaciones En El Mar 2002 (Animacion)
+http://archive.org/download/20220919_202209/Daniel%20el%20travieso%20Vacaciones%20en%20el%20mar.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Duro De Cuidar 2 2021" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbmi9r1xuXSGJkteo_-2mmMih0PG1YLd1Ayf5LB2V2hUPDlKRF" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Duro De Cuidar 2 2021 (Accion)
+http://archive.org/download/2_202209_202209/Duro%20de%20cuidar%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Camino Hacia El Dorado 2000" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yI7KqevlFBOJDpXFTZa0swDQZLU.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",El Camino Hacia El Dorado 2000 (Animacion)
+http://archive.org/download/202210_20221004_0422/el%20dorado.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Ejercito De Los Muertos 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4h1Uc13QPjHTTUX0bikICWUxTSV.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",El Ejercito De Los Muertos 2021 (Accion)
+http://archive.org/download/202209_20220918_1330/El%20ej%C3%A9rcito%20de%20los%20muertos%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Espinazo Del Diablo 2001" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9lwgSFfieAKDwTQtXcnTigo1Em4.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",El Espinazo Del Diablo 2001 (Drama)
+http://archive.org/download/202210_20221004_0428/el%20espinazo%20del%20diablo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Patriota 2000" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLUncSNTSJa57Lq01myJ_zZ55-b_ZkGYD_Ql9MG9Sbro88f0ew" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",El Patriota 2000 (Accion)
+http://archive.org/download/202209_20220918_1307/El%20patriota.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Unico Y Gran Ivan 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a8DMtkQBCA44tDNxapqsF99M6K0.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",El Unico Y Gran Ivan 2020 (Aventura)
+http://archive.org/download/202210_20221004_1100/el%20magn%C3%ADfico%20ivan.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Emoji La Pelicula 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Emoji La Pelicula 2017 (Animacion)
+http://archive.org/download/2017_20220912/Emoji%20La%20pel%C3%ADcula%202017.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Expreso Polar 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Expreso Polar 2004 (Animacion)
+http://archive.org/download/2004_20220917/Polar%20Express%202004.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Focus Maestros De La Estafa 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Nfl7nbruxF1z01GxExUO0GYujm.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",Focus Maestros De La Estafa 2015 (Romance)
+http://archive.org/download/20220920_20220920_0325/Focus%20Maestros%20De%20La%20Estafa.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Frankenweenie 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4WZaUjHswR2mak767GEXgiWYxeq.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Frankenweenie 2012 (Animacion)
+http://archive.org/download/2012_20220912/Frankenweenie%202012.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 1 El Vengador Fantasma 2007" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuYXqugYkJdfIJxCAXlgZjwnuF0.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Ghost Rider 1 El Vengador Fantasma 2007 (Accion)
+http://archive.org/download/2007_20220927/Ghost%20Rider%20El%20Vengador%20Fantasma%202007.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider 2 2012 Espiritu De Venganza" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yokkUoswEXgPiNRZvQ2XrYCEbVp.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Ghost Rider 2 2012 Espiritu De Venganza (Accion)
+http://archive.org/download/2012_20220927/Ghost%20Rider%202%20Esp%C3%ADritu%20de%20Venganza%202012.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 2 La Pandilla De Cupido 1974" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nABtlB6BqKjRIcMeEXB3OUvXpGf.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 2 La Pandilla De Cupido 1974 (Comedia)
+http://archive.org/download/1974_20220926/Herbie%202%20La%20Pandilla%20De%20Cupido%201974.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 3 En El Gran Prix De Montecarlo 1977" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaqLuMlapx7_kmRIWu0AsZuR9o8W4Qq-TMwlp7unP_T2cEL1d" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 3 En El Gran Prix De Montecarlo 1977 (Comedia)
+http://archive.org/download/1977_20220927/Herbie%203%20En%20El%20Gran%20Prix%20De%20Montecarlo%201977.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 4 Cupido Motorizado Rumbo A Rio 1980" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9735D7943D20C0D6508DEA25AD9B8B57396BC0E8C71FDB2D49F40A5ACE4359DD/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 4 Cupido Motorizado Rumbo A Rio 1980 (Comedia)
+http://archive.org/download/1980_20220927/Herbie%204%20Cupido%20Motorizado%20Rumbo%20A%20Rio%201980.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Herbie 5 A Toda Marcha 2005" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3fGR6XeSLh9fdwG1OYE1hlcQ7YA.jpg&w=256&q=75" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Herbie 5 A Toda Marcha 2005 (Comedia)
+http://archive.org/download/2005_20220927/Herbie%205%20A%20Toda%20Marcha%202005.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Vs Thor 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Hulk Vs Thor 2009 (Anime)
+http://archive.org/download/20220912_20220912_1058/Hulk%20Contra%20Thor.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Hulk Vs Wolverine 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AhkMzlw5r7mVgbtVjbzDLq3Mucm.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Hulk Vs Wolverine 2009 (Anime)
+http://archive.org/download/20220912_20220912_1103/Hulk%20vs%20Wolverine%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 3 La Rebelion De Los Lycans 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lvzqDNt7YWKVEGdHFKyJHz5aeR8.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Inframundo 3 La Rebelion De Los Lycans 2009 (Accion)
+http://archive.org/download/3_20221005/inframundo%203.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 4 El Despertar 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Inframundo 4 El Despertar 2012 (Accion)
+http://archive.org/download/20221005_20221005_1129/inframundo%204.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo 5 Guerras De Sangre 2016" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Inframundo 5 Guerras De Sangre 2016 (Accion)
+http://archive.org/download/20221005_20221005_1138/inframundo%205.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man La Rebelión De Technovore 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4CLH3eYDCIEQlTaOinRSVO6RQFM.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Iron Man La Rebelión del Technivoro 2013 (Animación)
+http://archive.org/download/20220912_20220912_1114/Iron%20Man%20La%20rebeli%C3%B3n%20de%20Technovore.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man Y Hulk Heroes Unidos 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xz9WKyI3Bz33HzsR7hQgPpIoiC9.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Iron Man Y Hulk Heroes Unidos 2013 (Animación)
+http://archive.org/download/20220912_20220912_1108/Iron%20Man%20%26%20Hulk%20%E2%80%93%20H%C3%A9roes%20Unidos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man Y Capitan America Heroes Unidos 2014" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jpALvBEBe7MSEuHZDWEolcUfEGX.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Iron Man Y Capitan America Heroes Unidos 2014 (Animación)
+http://archive.org/download/20220913_20220913_1104/Iron%20Man%20y%20Capitan%20America%20Heroes%20Unidos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/HPEXPFY5B2TWyC1mKoUtz4fNsB.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Jungle Cruise 2021 (Aventura)
+http://archive.org/download/202210_20221005_1146/jungle%20cruise.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Knock Knock El Lado Oscuro Del Deseo 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Knock Knock El Lado Oscuro Del Deseo 2015 (Suspenso)
+http://archive.org/download/202210_20221004_1054/el%20lado%20oscuro%20del%20deseo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Chica Del Ramen 2008" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aJi8lEpRCybv6TDOdX0IA3wVmL6.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",La Chica Del Ramen 2008 (Comedia)
+http://archive.org/download/20221006_20221006_0229/la%20chica%20del%20ramen.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Cosa Mas Dulce 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xFwNQTMZlm5cl73LhqqpW0oAFOp.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",La Cosa Mas Dulce 2002 (Romance)
+http://archive.org/download/3_20221006/la%20cosa%20m%C3%A1s%20dulce.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Extraña Vida De Timothy Green 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dtpO6quh2f49H6KIvcUb0FdHZEk.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",La Extraña Vida De Timothy Green 2012 (Fantasia)
+http://archive.org/download/2_20221006_20221006/la%20extra%C3%B1a%20vida%20de%20timonti%20green.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura LEGO 2 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pOMqelYclqbnj4f7mL5KgSN5rJj.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Gran Aventura LEGO 2 2019 (Animacion)
+http://archive.org/download/2-2019_202209/La%20LEGO%20pel%C3%ADcula%202%202019.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Pelicula De Piglet 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3gumCa7HRNHE2wBLWdDgj0tvaKx.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Gran Pelicula De Piglet 2003 (Animacion)
+http://archive.org/download/20221006_20221006_1047/la%20gran%20pel%C3%ADcula%20de%20pidget.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Crisis En Las Dos Tierras 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dRJzhOVZ4d3b2bMa24PusStb9ro.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Crisis En Las Dos Tierras 2010 (Animación)
+http://archive.org/download/20220915_20220915_1012/Liga%20de%20la%20Justicia%20Crisis%20en%20las%20Dos%20Tierras.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Liga de la Justicia Crónicas de Dioses y Monstruos (2015)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sytZtuGtxKX6L6hyyMKtK41hLTa.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Liga de la Justicia Crónicas de Dioses y Monstruos (2015) (Animación)
+http://archive.org/download/20220913_20220913_1116/La%20Liga%20De%20La%20Justicia%20Dioses%20y%20Monstruos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Guerra 2014" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vbxw3IEseLTOMNOUBk3JS6gibbK.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Guerra 2014 (Animación)
+http://archive.org/download/202209_20220915/Liga%20de%20la%20Justicia%20Guerra.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Oscura 2017" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/axfmTcHRK3TTXrCLXD9HtchMuwG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Oscura 2017 (Animación)
+http://archive.org/download/20220915_20220915_1046/Liga%20de%20la%20Justicia%20Oscura.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La justicia Oscura Guerra Apokolips 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/osrf7VTgAwTLIr38dxJl2Y7q35H.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La justicia Oscura Guerra Apokolips 2020 (Animación)
+http://archive.org/download/202209_20220913/La%20Liga%20de%20la%20Justicia%20Oscura%20Guerra%20Apokolips.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Perdicion 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n8V3EJxD78JZvKputjBCAgPjB3x.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Perdicion 2012 (Animación)
+http://archive.org/download/20220915_20220915_1054/Liga%20de%20la%20Justicia%20Perdici%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga De La Justicia Paradoja Del Tiempo 2013" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOIH3wCtz3y4DonPDoHqSz0VjDj.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Liga De La Justicia Paradoja Del Tiempo 2013 (Animación)
+http://archive.org/download/202209_20220915_1029/Liga%20De%20La%20Justicia%20La%20Paradoja%20Del%20Tiempo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La liga De La Justicia Y Jovenes Titanes Union En Accion 2016" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6cUDnsWQSeknDeasWpq59WNjWjd.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La liga De La Justicia Y Jovenes Titanes Union En Accion 2016 (Animación)
+http://archive.org/download/20220915_20220915_1102/Liga%20de%20la%20Justicia%20y%20J%C3%B3venes%20Titanes%20Uni%C3%B3n%20en%20acci%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Maldicion 1999" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdreKLCRyBpHE7iT0RFo5De3jjFg.jpg&w=256&q=75" group-title="⭐⭐PELICULAS TERROR⭐⭐",La Maldicion 1999 (Terror)
+http://archive.org/download/202210_20221006/la%20maldici%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Mansion Embrujada 2003" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/quVOyQALS1JVOoiGekllFfEfwwD.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",La Mansion Embrujada 2003 (Fantasía)
+http://archive.org/download/202210_20221006_1103/la%20mansi%C3%B3n%20embrujada.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Maquina Del Tiempo 2002" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ir4elJEr8mbCBIMFgsQG6m01aS1.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",La Maquina Del Tiempo 2002 (Ciencia Ficcion)
+http://archive.org/download/20220925_20220925_0414/La%20m%C3%A1quina%20del%20tiempo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Mujer Maravilla 2009" tvg-logo="https://pelisimg.online/cover/la-mujer-maravilla.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Mujer Maravilla 2009 (Animimación)
+http://archive.org/download/202209_20220914/La%20Mujer%20Maravilla.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Oveja Shaun El Vuelo Antes De Navidad 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pnLPGa9OGBsY61Xtp15cp7rXW1i.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Oveja Shaun El Vuelo Antes De Navidad 2021 (Animacion)
+http://archive.org/download/2021_20220914/La%20oveja%20Shaun%20El%20vuelo%20antes%20de%20Navidad%202021.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Princesa Y El Monstruo 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",La Princesa Y El Monstruo 2022 (Animacion)
+http://archive.org/download/20220914_20220914_1134/La%20princesa%20y%20el%20monstruo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Las Aventuras De Winnie Pooh 1977" tvg-logo="https://pelisimg.online/cover/la-gran-aventura-de-winnie-the-pooh.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Las Aventuras De Winnie Pooh 1977 (Animacion)
+http://archive.org/download/1977_20221006/las%20aventuras%20de%20Winnie%20de%20Pooh%201977.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Las Ventajas De Ser Invicible 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vjWqQAe4cYdzDuqO4U0kiN7qO4r.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Las Ventajas De Ser Invicible 2012 (Drama)
+http://archive.org/download/20220925_20220925_0427/Las%20ventajas%20de%20ser%20invisible.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lilo Y Stich 2 Stich En Corto Circuito 2005" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fo3xLpfK6cmWUpxw9ZwHPH8XizLz.jpg&w=256&q=75" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Lilo Y Stich 2 Stich En Corto Circuito 2005 (Animacion)
+http://archive.org/download/20220915_20220915_1119/Lilo%20%26%20Stitch%202%20El%20efecto%20del%20defecto.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde Primer Vuelo 2009" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pEreGSA55Jjky2RBZsj3vgGM96U.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Linterna Verde Primer Vuelo 2009 (Animacion)
+http://archive.org/download/20220916_20220916_1105/Linterna%20Verde%20Primer%20Vuelo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde Caballeros Esmeralda 2011" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Linterna Verde Caballeros Esmeralda 2011 (Animacion)
+http://archive.org/download/20220916_20220916_1057/Linterna%20Verde%20Caballeros%20Esmeralda.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods Una Nueva Era 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5uMWKEmegf5aTJnp1u98JF4QerP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Los Croods Una Nueva Era 2020 (Animacion)
+http://archive.org/download/2020_202209/Los%20Croods%20Una%20nueva%20era%202020.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lou 2022" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdjM2s4wSaATn4jVB33cV05PEbV7.jpg&w=256&q=75" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Lou 2022 (Acción)
+http://archive.org/download/2022_20220927/Lou%202022.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lucy 2014" tvg-logo="https://image.tmdb.org/t/p/original/uy2TvHFwgKk6UzxxKnPsLkbQwTt.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Lucy 2014 (Accion)
+http://archive.org/download/20220925_20220925_1031/Lucy.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Maquia Una Historia De Amor Eterno 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Maquia Una Historia De Amor Eterno 2018 (Anime)
+http://archive.org/download/202209_20220925/Maquia%20una%20historia%20de%20amor%20eterno.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Marianne Y La Pocima Del Amor 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7LhOt6vzoCFYBXKUjlAe3iV28tP.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Marianne Y La Pocima Del Amor 2015 (Animacion)
+http://archive.org/download/2017_20220916/Marianne%20y%20la%20p%C3%B3cima%20del%20amor%202017.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mas Alla De La Luna 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mas Alla De La Luna 2020 (Animacion)
+http://archive.org/download/2020_202209_202209/M%C3%A1s%20all%C3%A1%20de%20la%20Luna%202020.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi Amigo El Dragon 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xnLvLfgLVaAM7Zy21MobR3giKJi.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mi Amigo El Dragon 1997 (Animacion)
+http://archive.org/download/mi-amigo-el-dragon/mi%20amigo%20el%20dragon.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Oceanos De Fuego 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xkjNgLJREoRN1bRRNc4Ahd41Kcn.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Oceanos De Fuego 2004 (Aventura)
+http://archive.org/download/20220918_20220918_1354/Oc%C3%A9ano%20de%20fuego.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Padre No Hay Mas Que Uno 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Padre No Hay Mas Que Uno 2019 (Comedia)
+http://archive.org/download/02209_202209/Padre%20no%20hay%20m%C3%A1s%20que%20uno.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Padre No Hay Mas Que Uno 2 La Llegada De La Suegra 2020" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Padre No Hay Mas Que Uno 2 La Llegada De La Suegra 2020 (Comedia)
+http://archive.org/download/20220927_20220927_0352/Padre%20no%20hay%20m%C3%A1s%20que%20uno%202%20La%20llegada%20de%20la%20suegra.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Perfect Blue 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kk8p22JheV6MB0fBXOOUgZK9UWQ.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Perfect Blue 1997 (Anime)Castellano
+http://archive.org/download/202210_202210/perfect%20blue.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho 1940" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/th4zcMSPbdhDMdCglCcZIjDkWLd.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pinocho 1940 (Animacion)
+http://archive.org/download/1940_202209/Pinocho1940.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Hulk 2010" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dyu6DJSNWnEWxLnFlFkWFAgF9X9.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Planeta Hulk 2010 (Anime)
+http://archive.org/download/20220917_20220917_0126/Planet%20Hulk.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 1 1995" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pocahontas 1 1995 (Animacion)
+http://archive.org/download/202209_20220926/Pocahontas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas 2 1998" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Pocahontas 2 1998 (Animacion)
+http://archive.org/download/20220926_20220926_0400/Pocahontas%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon The Arceus Chronicles 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uUg9mLGlOVFYOSsUPWSOuksUAxz.jpg" group-title="⭐⭐PELICULAS ANIME⭐⭐",Pokemon The Arceus Chronicles 2022 (Anime)
+http://archive.org/download/2022_20220927_202209/Pokemon%20The%20Arceus%20Chronicles%202022.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rabbids La Invasion Especial Mision A Marte 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7arpOTIATZAcSzTLWhYyyGPGf5v.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Rabbids La Invasion Especial Mision A Marte 2021 (Animacion)
+http://archive.org/download/2021_20220917/Rabbids%20la%20invasi%C3%B3n%20Especial%20Misi%C3%B3n%20a%20Marte%202021.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rampage Devastacion 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Rampage Devastacion 2018 (Accion)
+http://archive.org/download/202209_20220926_0924/Rampage.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rango 2011" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/9p73gp8ugku8n1YNhO0dYryF1ll.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Rango 2011 (Animacion)
+http://archive.org/download/2011_202209/Rango%202011.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rat Race 2001" tvg-logo="https://image.tmdb.org/t/p/w185/vHBS0zjiWdYssTSCupGuw8WgyWJ.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Rat Race 2001 (Comedia)
+http://archive.org/download/20221004_20221004_1107/el%20mundo%20est%C3%A1%20loco%20loco.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rock Dog 2 Renace Una Estrella 2021" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bi2Axcg9qJyeOExi3hOsycV7kZC.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Rock Dog 2 Renace Una Estrella 2021 (Animacion)
+http://archive.org/download/2021_20220917_202209/Rock%20Dog%202%20Renace%20Una%20Estrella%202021.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shaun El Cordero La Pelicula 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nlAKsbhOTw91dlAqpj1T4PCDJIk.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Shaun El Cordero La Pelicula 2015 (Animacion)
+http://archive.org/download/20220926_20220926_0940/Shaun%20el%20Cordero%20La%20Pel%C3%ADcula.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shaun El Cordero La Pelicula Granjaguedon 2019" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sZMSXJGwlL14JJRwDYkXEWmOnEC.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Shaun El Cordero La Pelicula Granjaguedon 2019 (Animacion)
+http://archive.org/download/20220926_20220926_0932/Shaun%20el%20cordero%20La%20pel%C3%ADcula%20-%20Granjaguedon.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shutter El Fotografo 2004" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rebJWVTb0Wg39MY9cmCM0mPlTgJ.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Shutter El Fotografo 2004 (Suspenso)
+http://archive.org/download/202210_20221004_1047/el%20fot%C3%B3grafo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Superman Batman Apocalipsis" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jOFiLDC1fcRHDq5WSgt2zKAjTfh.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Superman Batman Apocalipsis (Animacion)
+http://archive.org/download/20220917_20220917_0234/SupermanBatman%20Apocalipsis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Superman Batman Enemigos Publicos" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qYckc7dwtuIUlFEx1lallXFfYka.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Superman Batman Enemigos Publicos (Animacion)
+http://archive.org/download/20220917_20220917_0245/SupermanBatman%20Enemigos%20P%C3%BAblicos.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Superman Sin Limites" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yNuYHiZTr1zl4qPcTVXTW8QAxT6.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Superman Sin Limites (Animacion)
+http://archive.org/download/20220917_20220917_0217/Superman%20Sin%20L%C3%ADmites.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tan Perversa Como El Diablo 2001" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Ta6694HxrPCHrOQgDox6DtoRxX.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Tan Perversa Como El Diablo 2001 (Comedia)
+http://archive.org/download/20220926_20220926_0959/Tan%20perversa%20como%20el%20diablo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan 1 1999" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Tarzan 1 1999 (Animacion)
+http://archive.org/download/20220926_20220926_1009/Tarzan.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan 2 2005" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/VFm7cqSUrv6mCW6uFIJFhSZLjq.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Tarzan 2 2005 (Animacion)
+http://archive.org/download/202209_20220926_0952/Tarzan%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto Falla De San Andres 2015" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uC4uhJuyOxZQhMcJoKQWbe667Sx.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Terremoto Falla De San Andres 2015 (Accion)
+http://archive.org/download/202209_20220926_1019/Terremoto%20La%20Falla%20de%20San%20Andr%C3%A9s.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tesis 1996" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2f6dOp3yjLtABEDqE6xuOAoLftF.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Tesis 1996 (Suspenso)
+http://archive.org/download/202209_20220926_1030/tesis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tren Bala 2022" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5a7cocgyVuFjYV71neDIGVzD6Yq.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Tren Bala 2022 (Accion)
+http://archive.org/download/2022_202209_20220927/Tren%20Bala%202022.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Un Hombre Lobo Americano En Paris 1997" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Un Hombre Lobo Americano En Paris 1997 (Terror)
+http://archive.org/download/20220927_20220927_0433/Un%20Hombre%20Lobo%20Americano%20en%20Par%C3%ADs.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Un Lugar En Silencio 2018" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Un Lugar En Silencio 2018 (Suspenso)
+http://archive.org/download/202209_20220926_1041/Un%20lugar%20en%20silencio.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Viaje Al Centro De La Tierra 2 La Isla Misteriosa 2012 (Aventura)
+http://archive.org/download/20220926_20220926_1052/Viaje%20al%20Centro%20de%20la%20Tierra%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Intruso en la Noche (1989)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pib25gFtNCShcyRpFvp1jrcJ1Xk.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Intruso en la Noche (1989) (Terror Slasher)
+http://archive.org/download/75JK8H40/L2UI44X2.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La Abuela (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5jZeTJ03kOjOezATP0tY1FFQHGb.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",La Abuela (2022) (Terror ThrillerPsicológico)
+http://archive.org/download/75JK8H40/80WTKQ03.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://pics.filmaffinity.com/jaula-107658810-mmed.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Jaula (2022) (Terror Intriga)
+http://archive.org/download/75JK8H40/3PCA8286.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Cerdita (2022)" tvg-logo="https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Cerdita (2022) Suspenso Drama Terror
+http://archive.org/download/75JK8H40/9GI0FQ3P.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm (1984)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm (1984 Terror)
+http://archive.org/download/31S646NX/A15M2SD1.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 2 - La Venganza de Freddy (1985)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/54JsC5uy6l9HTeDmW1DGQ76dsc4.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 2 - La Venganza de Freddy (1985 Terror)
+http://archive.org/download/31S646NX/A15M2SD2.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 3 - Los Guerreros del Sueño (1987)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ekWAcoQLZuXKh96tDJTQe5SFBsd.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 3 - Los Guerreros del Sueño (1987 Terror)
+http://archive.org/download/31S646NX/A15M2SD3.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 4 - El Amo de los Sueños (1988)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/waLzjguZwn83nCtSuG22l87eHZx.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 4 - El Amo de los Sueños (1988 Terror)
+http://archive.org/download/31S646NX/A15M2SD4.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 5 - El Niño de los Sueños (1989)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vUEPnN7ZkW3buaTDmosFubwC7ZH.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 5 - El Niño de los Sueños (1989 Terror)
+http://archive.org/download/T4G52W3E/A15M2SD5.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm 6 - La Muerte de Freddy (1991)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bqFsmwVUKKk1gpSUVZW8RLULYDb.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm 6 - La Muerte de Freddy (1991 Terror)
+http://archive.org/download/T4G52W3E/A15M2SD6.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La Nueva Pesadilla de Wes Craven (1994)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sLLYfNEruiG8OTdF4MOKHfU7udi.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",La Nueva Pesadilla de Wes Craven (1994 Terror)
+http://archive.org/download/T4G52W3E/A15M2SD7.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Freddy Contra Jason (2003)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uBXEcdi5gV0VjMxZ8EUwQnvQHbs.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Freddy Contra Jason (2003 Terror)
+http://archive.org/download/10JM8B3A/A15M2SD8.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Calle Elm (Remake 2010)" tvg-logo="https://pics.filmaffinity.com/a_nightmare_on_elm_street-511303390-mmed.jpg" group-title="⭐⭐SAGA FREDDY KRUEGER⭐⭐",Pesadilla en la Calle Elm (Remake) (2010 Terror)
+http://archive.org/download/10JM8B3A/A15M2SD9.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: La Noche Final (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9J2CQk79hu9oiLUUbODq640eVYe.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Halloween: La Noche Final (2022) (Terror)
+http://archive.org/download/H5FDK6D1/JA0D66PB.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Puppet Master (El amo de las marionetas) (1989)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fBLLSGEvo2FQhCJnClbW8AmKpP2.jpg" group-title="⭐⭐SAGA PUPPET MASTER⭐⭐",Puppet Master (El amo de las marionetas) (1989) (Terror)
+http://archive.org/download/6se7-1w91/6SE71W91.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Puppet Master II (1990)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iUUriLJPEhVAVPADGdIZktTrKQW.jpg" group-title="⭐⭐SAGA PUPPET MASTER⭐⭐",Puppet Master II (1990) (Terror)
+http://archive.org/download/kt19-9b5m/KT199B5M.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Puppet Master III (1991)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rlNO2A1VZbe70UrqgQ55cDzJ6UA.jpg" group-title="⭐⭐SAGA PUPPET MASTER⭐⭐",Puppet Master III (1991) (Terror)
+http://archive.org/download/r5zv-n9h5-fx/R5ZVN9H5FX.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Dolls Muñecos malditos (1987)" tvg-logo="https://static.filmin.es/images/media/9689/1/poster_0_3_210x0.webp" group-title="⭐⭐PELICULAS TERROR⭐⭐",Dolls Muñecos malditos (1987) (Terror)
+http://archive.org/download/Q93PH38AB/Q1W9DK48.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo en la Isla de los Zombies (1998)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/la1xrRWrs8lmrxWNnho92ivgRmT.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Scooby-Doo en la Isla de los Zombies (1998) (Animación Comedia Terror)
+http://archive.org/download/FQL0022G/6FZK05U6.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="¡Feliz Halloween, Scooby-Doo! (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vDKCG4Qt8Tm0ot5zOVSVwZRR3Yc.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",¡Feliz Halloween, Scooby-Doo! (2020) (Animación,Comedia)
+http://archive.org/download/FQL0022G/N7B01LSZ.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="De la Nada: Scooby-Doo Conoce a Coraje, el Perro Cobarde (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g9cyiDTw5SQhbI7SRDjBUMr14kV.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",De la Nada: Scooby-Doo Conoce a Coraje, el Perro Cobarde (2021) (Animación,Comedia)
+http://archive.org/download/FQL0022G/L52435M4.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="¡Scooby-Doo! Dulce o Travesura (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jQnGmbS8Pqukn0hM91Fv57TsodG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",¡Scooby-Doo! Dulce o Travesura (2022) 
+http://archive.org/download/FQL0022G/HJ00YK08.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3 (2017)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pK7ge28ubs45av9aGEbVWW7ZbA8.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Jeepers Creepers 3 (2017) (Terror)
+http://archive.org/download/H5E737PD/NMA149M2.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers: Reborn (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kPlknIjzXkmhmR24NfXa4ECc5Wm.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Jeepers Creepers: Reborn (2022) (Terror)
+http://archive.org/download/H5E737PD/OE8CYY60.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Alarido (2022)" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/22/07/18/19/21/0732616.jpg" group-title="⭐⭐PELICULAS SUSPENSO⭐⭐",Alarido (2022) (Suspenso)
+http://archive.org/download/3C614S6A/1C57LTD7-V2.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Hombre Lobo por la Noche (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Hombre Lobo por la Noche (2022) (Acción Fantasía Terror)
+http://archive.org/download/H5E737PD/3Q2C0911.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La Forma del Agua (2017)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ahsMZ2PCIVi5qGoPKjjeG3ZznjA.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",La Forma del Agua (2017) (Drama Romance)
+http://archive.org/download/z7h5-j68r/Z7H5J68R.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Gravedad (2013)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cH8U50mHJ9JkhF5lJktHOvV30pP.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Gravedad (2013) (Ciencia Ficción Drama)
+http://archive.org/download/dz4w-6us4/DZ4W6US4.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/VMOt5scbGmBKDvkfHjZN6Ki54i.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Titanic (1997) (Drama Romance)
+http://archive.org/download/3rtb-6b41/3RTB6B41.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Vaselina (1978)" tvg-logo="https://image.tmdb.org/t/p/w300/flSy0dexE82TiS6Si2FtulSHk8o.jpg" group-title="⭐⭐PELICULAS ROMANCE⭐⭐",Vaselina (1978) (Momance Comedia)
+http://archive.org/download/John_S-1J_LCD4P/15.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Goonies (1985)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Los Goonies (1985) (Aventura)
+http://archive.org/download/John_S-1J_LCD4P/11.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones - Los cazadores del Arca Perdida (1981)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tECLVwLCMexSkls33RTCwedRZ6d.jpg" group-title="⭐⭐PELICULAS AVENTURA⭐⭐",Indiana Jones - Los cazadores del Arca Perdida (1981) (Aventura)
+http://archive.org/download/John_S-1J_LCD4P/05.avi
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 1 (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8STWO9pUTqubPV04iXZ2R6SClME.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Enola Holmes 1 (2020) (Aventura Misterio Crimen)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/fuego%2FVer%20Pelicula%20Enola%20Holmes%20Online%20Latino%20en%20HD%20-%20Poseidonhdd.com_2.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hulB3uxIRzerZfjwXdKSKVn2orV.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Enola Holmes 2 (Aventura Misterio Crimen)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Enola%20Holmes%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Vista por última vez (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2r5ZISrHQUQLBMdAJF3CDDAxp54.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Vista por última vez (2020) Acción, Suspense
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Vista%20por%20%C3%BAltima%20vez%20(2022)%20Online%20%E2%80%93%20CineHDPlus_2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lilo, mi amigo el cocodrilo (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7TN4JloWKhPJ6vBazjllfAQMbeN.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Lilo, mi amigo el cocodrilo (2022) (Comedia Familia Música)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Lilo%2C%20mi%20amigo%20el%20cocodrilo%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Causeway (Resurgir) (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg" group-title="⭐⭐PELICULAS Apple TV+⭐⭐",Causeway (Resurgir) (2022) Drama
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Causeway%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El ángel de la muerte (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/InAsct1iw71Uspf5MPFx9AF133.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",El ángel de la muerte (2022) (Drama Crimen Misterio) 
+https://od.lk/s/OTZfNzEyMTI3MDNf/Ver%20El%20%C3%A1ngel%20de%20la%20muerte%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El robo a Mussolini (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kCdwjDILxVLG8LZKhXpjfQNUoeY.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",El robo a Mussolini (2022 (Acción Crimen Comedia)
+https://od.lk/s/OTZfNzEyMTIyMDNf/Ver%20El%20robo%20a%20Mussolini%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="MexZombies (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pTxw4GFE3ZfzJfvuUsPyD5njAuI.jpg" group-title="⭐⭐PELICULAS VIX⭐⭐",MexZombies (2022) (Terror Acción Comedia)
+https://od.lk/s/OTZfNzEzMzU3OTRf/Ver%20MexZombies%20%282021%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vTfqiOZ4bZZZpIJp8sXT1UB6QS5.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Sin novedad en el frente (2022) (Drama Bélica Acción)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Sin%20novedad%20en%20el%20frente%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Noche de sustos (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yeH3eff53E3p1kBxJ9MZFzZLYlu.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Noche de sustos (2022) (Aventura Familia Terror Fantasía Misterio)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Noche%20de%20sustos%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Truco o trato Scooby-Doo (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jQnGmbS8Pqukn0hM91Fv57TsodG.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Truco o trato Scooby-Doo (2022) (Aventura Misterio Comedia Animación Familia) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20%C2%A1Truco%20o%20trato%20Scooby-Doo!%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaro (2022)" tvg-logo="https://pics.filmaffinity.com/barbarian-646820684-mmed.jpg" group-title="⭐⭐PELICULAS STAR+⭐⭐",Bárbaro (2022) (Misterio Supense Terror)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Barbarian%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dk8gKOyRUuuaohEEbO40xL3riu.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Jaula (2022) (Terror Misterio)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Jaula%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mPTzXksC8HcAj6EM6WjZFJVJEzF.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Black Adam (2022) (Acción Aventura Ciencia) ficción
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Black%20Adam%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Cerdita (2022)" tvg-logo="https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg" group-title="⭐⭐PELICULAS Paramount+⭐⭐",Cerdita (2022) (Terror Suspense Drama)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09b97c126_55CDPNuemro4k_T.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La escuela del bien y del mal (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xEOBNSrM5g1SSaOnvpioZF38cuE.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",La escuela del bien y del mal (2022) (Fantasía Comedia Aventura Drama)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20La%20escuela%20del%20bien%20y%20del%20mal%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="No estarás sola (2022)" tvg-logo="https://pics.filmaffinity.com/you_won_t_be_alone-869013274-msmall.jpg" group-title="⭐⭐PELICULAS Apple TV+⭐⭐",No estarás sola (2022) (Terror Drama)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2Fno%20estaras%20sola.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bros: Más que amigos (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/q1I02yesCWTLn1C1o64k0ezZgf9.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Bros: Más que amigos (2022) (Comedia Romance)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/63518d695d1b8_3BMQANumero4k_C.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Cataclismo (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pPral5bZqOoggWXtZYzsp6lixaE.jpg" group-title="⭐⭐PELICULAS Tubi⭐⭐",El Cataclismo (2021) (Ciencia ficción Terror Acción)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/634f05b0671d3_45ECNumero4k_T.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Cataclismo (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pPral5bZqOoggWXtZYzsp6lixaE.jpg" group-title="⭐⭐PELICULAS DESASTRES NATURALES⭐⭐",El Cataclismo (2022) (Ciencia ficción Terror Acción)
+https://od.lk/s/OTZfNzA4ODkyNDBf/Ver%20El%20Cataclismo%20%282022%29%20Online%20HD.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Herencia peligrosa (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3Oi2xIzQ8c4AYJah229zAMqSfQp.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Herencia peligrosa (2022) (Acción Misterio Suspense)
+https://od.lk/s/OTZfNzA5MDc5OTBf/Ver%20La%20pasajera%20%282022%29%20Online%20ACCION.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Madrastra (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nFvtUiJd6Nnr6ihZpXpekJowFqR.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",La Madrastra (2022) Terror 
+https://od.lk/s/OTZfNzA5MDA4MTBf/La%20madrastra%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Vestido De La Novia (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j3DMPRKEOznPvWcnXX4MlaeY5p7.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",El Vestido De La Novia (2022)(Terror Comedia) 
+https://od.lk/s/OTZfNzA4OTY2MzBf/Ver%20El%20vestido%20de%20la%20novia%20%282020%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Usuario: Cicada 3301 (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eAYegkG73JUbHuHt4k6ZRbVcZX.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Usuario: Cicada 3301 (2022) (Suspense Acción Comedia)
+https://od.lk/s/OTZfNzA5MTcxNDhf/Ver%20Dark%20Web%20Cicada%203301%20%282021%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rosalina (2022)" tvg-logo="https://pics.filmaffinity.com/rosaline-463672814-mmed.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Rosalina (2022) Comedia Romance
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Rosalina%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Amnésico (2022)" tvg-logo="https://pics.filmaffinity.com/blackout-504937808-mmed.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Amnésico (2022) Acción Aventura Suspense
+https://od.lk/s/OTZfNzA5MDIzOTFf/Amn%C3%A9sico%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La batalla del lago Changjin II (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4KNTMdGPpklyQWC8D95kBxQkC8P.jpg" group-title="⭐⭐PELICULAS BÉLICA⭐⭐",La batalla del lago Changjin II (2022) Bélica Historia Acción Drama
+https://od.lk/s/OTZfNzA4ODQ0MTBf/Ver%20La%20batalla%20del%20lago%20Changjin%20II%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Los tres deseos de Cenicienta (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hS9Pf2hVOB6btyEJHqKBc2xsW4m.jpg" group-title="⭐⭐PELICULAS FANTASÍA⭐⭐",Los tres deseos de Cenicienta (2022) Fantasía Familia 
+https://od.lk/s/OTZfNzA4ODc3MjJf/Los%20tres%20deseos%20de%20Cenicienta%20%282021%29%20Online%20HD.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: La noche final (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9J2CQk79hu9oiLUUbODq640eVYe.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Halloween: La noche final (2022) Terror Suspense
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Halloween-%20El%20final%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Maldición De Bridge Hollow (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zwc4tRQ6Z0wlhkurtX0PF2qdeGp.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",La Maldición De Bridge Hollow (2022) Aventura Comedia Terror Familia 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20La%20Maldici%C3%B3n%20De%20Bridge%20Hollow%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Actividad paranormal: Vínculos familiares (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg" group-title="⭐⭐PELICULAS TERROR⭐⭐",Actividad paranormal: Vínculos familiares (2021) Terror Misterio
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Actividad%20Paranormal%207-%20V%C3%ADnculos%20familiares%20(2021)%20Online%20%E2%80%93%20CineHDPlus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Grimcutty: Asesino implacable (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/78hYJj668lOM1Evl7XsZaPdZzqU.jpg" group-title="⭐⭐PELICULAS STAR+⭐⭐",Grimcutty: Asesino implacable (2022) Terror
+https://od.lk/s/MzhfMTU5NzE3OTBf/Grimcutty%20%282022%29.1080p.dual-lat.cinecalidad.run.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Hombre Lobo por la noche (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg" group-title="⭐⭐PELICULAS DISNEY⭐⭐",Hombre Lobo por la noche (2022) Acción Fantasía Terror
+https://od.lk/s/OTZfNzA2ODc5MTBf/Ver%20La%20maldici%C3%B3n%20del%20Hombre%20Lobo%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El teléfono del señor Harrigan (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aERrzPJyUYAhmbies50dMz21W4u.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",El teléfono del señor Harrigan (2022) Drama Suspense Terror Misterio
+https://od.lk/s/OTZfNzA1NTkzMDdf/Ver%20El%20tel%C3%A9fono%20del%20se%C3%B1or%20Harrigan%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Monster High (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2fe2GD3qpQ1pYJMF6IbvRLmdCcN.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Monster High (2022) Animación Familia Kids Comedia
+https://od.lk/s/OTZfNzA2ODg5NjNf/Ver%20Monster%20High%20La%20Pel%C3%ADcula%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Invitación al infierno (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oHVR6249rkhCJkdBc7vk166KLMF.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Invitación al infierno (2022) Terror Suspense Drama
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Invitaci%C3%B3n%20al%20Infierno%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Géminis: El planeta oscuro (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z2zNyM6RAMGzeUwLsjYJZVGspsh.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Géminis: El planeta oscuro (2022) (Ciencia ficción Terror)
+https://od.lk/s/MzhfMTU5NjU0MTNf/G%C3%A9minis-%20El%20planeta%20oscuro%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de mi mejor amiga (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wmz93VQwDOIKZuGHPZQPt2h2qHW.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",El exorcismo de mi mejor amiga (2022) Terror Comedia
+https://od.lk/s/MzhfMTU5NjU0MDZf/El%20exorcismo%20de%20mi%20mejor%20amiga%20%282022%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman y Superman: La batalla de los Super hijos (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fQFY3IsdwLl2O5z5YEh97R8A7hY.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Batman y Superman: La batalla de los Super hijos (2022) (Animación Acción Ciencia ficción)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Batman%20y%20Superman-%20La%20batalla%20de%20los%20hijos%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vértigo (2023)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/66Pbk3sXw6X8ZygaAxw2BrvYEnm.jpg" group-title="⭐⭐PELICULAS ESTRENOS 2023⭐⭐",Vértigo (2023) Drama Misterio
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20V%C3%A9rtigo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tren Bala (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Tren Bala (2022) Acción Comedia Suspense
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Tren%20bala%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="El Cuartel Secreto (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",El Cuartel Secreto (2022) (Acción Aventura Comedia Ciencia ficción Familia)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Secret%20Headquarters%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lou (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Lou (2022) (Acción Suspense)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/632f4fdef2801_44LUNumero4k_A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Atenea (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uponqptyKtBsJuODqmxoronFd8P.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Atenea (2022) (Acción Aventura Suspense Drama)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/632f4fdab8239_43ATNANumero4k_D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sociedad de Honor (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Sociedad de Honor (2022) Comedia
+https://d1yei2z3i6k35z.cloudfront.net/2104853/632b4188e1c25_46HSNUmero4k_C.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Monsters (2022)" tvg-logo="https://m.imdb.com/title/tt14813212/mediaviewer/rm2230979073/?ref_=tt_ov_i" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Los Monsters (2022) (Comedia Familiar Fantasía) https://d1yei2z3i6k35z.cloudfront.net/2104853/632b417e476e0_46LMNumero4k_C.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Encerrada (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xKZ1x7btQDBxvt5JRBOxWjCHMXy.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Encerrada (2022) (Suspense Terror Drama)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/632b418363361_47ENCRRDANumero4k_T.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Huérfana 2 (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eed4qNf174pcT65it1PBbaTTL3x.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",La Huérfana 2 (2022) (Terror Suspense)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20La%20Hu%C3%A9rfana%20(2009)%20Online%20Latino%20HD%20-%20PELISPLUS%202.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Huérfana 1 (2009)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",La Huérfana 1 (2009) (Terror Suspense Misterio)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20La%20hu%C3%A9rfana-%20Primer%20asesinato%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1yIM2QL0qLzWMjTGuMX12yZnBtb.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Pinocho (2022) (Fantasía Aventura Familia)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/631bcec0a8a17_36PNCHNumero4k_F.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Bestia (2022)" tvg-logo="https://i.blogs.es/4bb4d4/la-bestia-cartel-idris-elba/1366_2000.jpeg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",La Bestia (2022) Acción
+https://d1yei2z3i6k35z.cloudfront.net/2102480/631b7efe50c38_96BSTNumero4k_A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Amor y Trueno (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg" group-title="⭐⭐PELICULAS DISNEY⭐⭐",Thor: Amor y Trueno (2022) (Fantasía Acción Comedia)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/631bceeac8f2c_97TR4Numero4k_A.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Éxodo: La última marea (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5xhkwMRBwaGyzYRdySv2VOSNUXY.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",Éxodo: La última marea (2021) (Ciencia ficción Suspense)
+https://od.lk/s/OTZfNjgzMjUxODVf/Ver%20Tides%20%282021%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Éxodo: La última marea (2021)" tvg-logo="https://i.blogs.es/4bb4d4/la-bestia-cartel-idris-elba/1366_2000.jpeg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",Nop (2022) https://d1yei2z3i6k35z.cloudfront.net/2104853/6314218e2ebc7_54NPNumero4k_T.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Arde Notre Dame (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ZsbjefUPDWyua8cAimpGbhDdgR.jpg" group-title="⭐⭐PELICULAS CIENCIA FICCIÓN⭐⭐",Arde Notre Dame (2022) (Drama Suspense)
+https://od.lk/s/OTZfNjgzMjM1NTFf/Ver%20Arde%20Notre%20Dame%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Bestia (2022)" tvg-logo="https://i.blogs.es/4bb4d4/la-bestia-cartel-idris-elba/1366_2000.jpeg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",La Bestia (2022) Acción
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20Bestia%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La chica salvaje (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fmKCI3tweszvv1S7MoK0OCWsvht.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",La chica salvaje (2022) (Drama Misterio Romance) 
+https://od.lk/s/OTZfNjgzMjQwNjlf/Ver%20La%20chica%20salvaje%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg" group-title="⭐⭐PELICULAS DRAGON BALL⭐⭐",Dragon Ball Super: Super Hero (2022) (Animación Action & Adventure Sci-Fi & Fantasy)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Dragon%20Ball%20Super-%20Super%20Hero%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg" group-title="⭐⭐PELICULAS DRAGON BALL⭐⭐",Dragon Ball Super (2022) https://d1yei2z3i6k35z.cloudfront.net/2104853/631bced111728_35GSHNumero4k_Anime.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sala de comunicaciones (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jwGSzu7Nd5hUWCLMhdxKln8fsjd.jpg" group-title="⭐⭐PELICULAS ACCIÓN⭐⭐",Sala de comunicaciones (2022) (Acción Crimen)
+https://od.lk/s/OTZfNjgxODY4MTZf/Ver%20Sala%20de%20comunicaciones%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tiempo para mí (2022)" tvg-logo="https://cuevana.biz/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FpBiayvJ6SjXLvh642VmLQBAvbyw.jpg&w=256&q=75" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Tiempo para mí (2022) Comedia
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2Ftiempo%20para%20mi.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Kaamelott - Premier volet (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hfq2Wgm86DeXGxcBrrpk9EShAZ8.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Kaamelott - Premier volet (2021) (Aventura Fantasía Comedia)
+https://od.lk/s/OTZfNjc5MjgxNDlf/Ver%20Kaamelott%20Parte%201%20%282021%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi dulce monstruo (2021)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j14T7JfdN0XEgLao56aYKQoGwq7.jpg" group-title="⭐⭐PELICULAS ANIMACIÓN⭐⭐",Mi dulce monstruo (2021) (Animación Aventura Familia)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Mi%20dulce%20monstruo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Samaritan (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",Samaritan (2022) (Ciencia ficción Crimen Acción)
+https://od.lk/s/OTZfNjc4NDc4NjZf/Ver%20Samaritan%20%282022%29%20Online.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg" group-title="⭐⭐PELICULAS NETFLIX⭐⭐",Top Gun Maverick (2022) (Acción Drama) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Top%20Gun-%20Maverick%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Depredador La presa (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg" group-title="⭐⭐PELICULAS STAR+⭐⭐",Depredador La presa (2022) (Suspense Acción Ciencia ficción)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Predator-%20La%20presa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="En Todas Partes Al Mismo Tiempo (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ildVXPXTQFly8VAgIrre5v5rbbQ.jpg" group-title="⭐⭐PELICULAS PRIME VIDEO⭐⭐",En Todas Partes Al Mismo Tiempo (2022) (Acción Aventura Ciencia ficción)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Minions: El origen de Gru (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Minions: El origen de Gru (2022) (Animación Comedia Familia)
+https://od.lk/s/OTZfNjY4NjIxNDFf/Ver%20Minions%20El%20origen%20de%20Gru%20%282022%29%20Online%20HD.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="⭐⭐PELICULAS HBO MAX⭐⭐",Lightyear (2022) (Animación Ciencia ficción Familia)  Aventurahttps://d1yei2z3i6k35z.cloudfront.net/2104853/62d8823155c1b_25LGYEARNumero4k_F.mp4
+
+#EXTINF:-1 ::::::::::::::: Nuevo Cine Mexicano :::::::::::::::
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Por Amor al Money" tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/por-amor-al-money-16x9-cris_2.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Por Amor al Money (Comedia Romance)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_rder6bsu/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_6ippeqyh,1_og6qq0i2,1_j71j6bf9,1_rhkopkw3,1_9m8in2xe,1_wf74rh13,1_04ni4vjm,1_cowdtnaq/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Corazón Marchito" tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/corazon-marchito-16x9-cris.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Corazón Marchito (Drama Romance)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_joxm8n3h/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_glgf0tip,1_zbsib620,1_y9379vuz,1_bp36o3k4,1_c320r4fy,1_0ru8xap9,1_emv2wi0f,1_6hin2y4v/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hombres Hay Muchos" tvg-logo="https://img1.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/hombres-hay-muchos-16x9-cris_0.jpg" group-title="⭐⭐PELICULAS PICANTE⭐⭐",Hombres Hay Muchos (Picante)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_1jq6ejwl/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_ff3deohx,1_przxfi1w,1_5jrm3fzl,1_jy3fqitj,1_k9jqngu1,1_ao3b6url,1_ghtj1ur8,1_gb2l4ccs/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Oscuro Veneno" tvg-logo="https://img3.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/oscuro-veneno-16x9-cris_2.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Oscuro Veneno (Suspense Drama)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_jzp9ilvl/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_mo87mywr,1_nknaqvhu,1_t4xrgx9m,1_6vc2vzd7,1_eo6cd9hr,1_6w8n9gy9,1_jvt1eq4l/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Abusamos del Alcohol" tvg-logo="https://img3.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/abusamos-del-alcohol-16x9-cris_2.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Abusamos del Alcohol Drama
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_7scbtczh/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_qh0pk0xb,1_2q67ingy,1_92wgjvxg,1_ztwojfih,1_0a5xf5ua,1_d26dt3y0,1_odoar2q9/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Esposa De Vacaciones" tvg-logo="https://img1.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/esposa-de-vacaciones_1920x1090px-cris.jpg" group-title="⭐⭐PELICULAS PICANTE⭐⭐",Esposa De Vacaciones (Picante-Movies Comedy)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_ro4ebxp8/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_ql1u6a62,1_einemtt5,1_o26mr9vw,1_3l8y1ux0,1_voiw3hwf,1_wwypjs0q,1_icqh4diu,1_awi0k1l2/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi Prima La Sexóloga" tvg-logo="https://img3.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/mi-prima-la-sexologa.jpg" group-title="⭐⭐PELICULAS PICANTE⭐⭐",Mi Prima La Sexóloga (Picante)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_rh0hz2nw/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_lgrf0b1m,1_nsd34obt,1_p5t0dylf,1_ald59n23,1_0sqfnomc,1_klvz47vl,1_n8v1o6ov,1_n43jwg1b/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Didas" tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/amor-didas-16x9-cris.jpg" group-title="⭐⭐PELICULAS PICANTE⭐⭐",Amor Didas (Comedy Romance Sexy Comedy)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_wy907g48/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_gytosxuu,1_c1p426l5,1_mijflo8x,1_tihzysny,1_7kykjup8,1_950o3116,1_uulkaduw,1_jggjyqfx/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tramposos Con Suerte" tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/tramposos-con-suerte-16x9-cris.jpg" group-title="⭐⭐PELICULAS COMEDIA⭐⭐",Tramposos Con Suerte (Comedy Action)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_gaggyvt4/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_pqrfjg3l,1_7x9n8u5j,1_5t3t5dar,1_mfopm5oa,1_t6t18lmu,1_c2plankv,1_rz9r0eni/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Reencarnación: Una Historia De Amor" tvg-logo="https://img1.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/reencarnacion_16x9.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Reencarnación: Una Historia De Amor (Drama)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_u1and20a/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_9wc1qzix,1_el2a3z5q,1_shk50nbp,1_rhg6oa0a,1_zhp3a0s5,1_g4b2vvud,1_vyjbgvf2,1_u1y11mq9/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Por una Mujer Casada" tvg-logo="https://img1.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/por-una-mujer-casada-16x9-cris_2.jpg" group-title="⭐⭐PELICULAS DRAMA⭐⭐",Por una Mujer Casada (Drama Romance)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_decnn4yv/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_gqvh9s56,1_67z1p0tf,1_xzulqp6k,1_jkez2h0f,1_e2o23nmc,1_jra1oml3,1_1mueld98,1_sw32eozl/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="El Teacher" tvg-logo="https://img2.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/el_teacher_16x9.jpg" group-title="⭐⭐PELICULAS PICANTE⭐⭐",El Teacher (Picante)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_aadhxryd/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_b7j519j3,1_uuxbma6g,1_dbmh1fxs,1_uflipvdj,1_stf2xg90,1_314wjpqp,1_xgkw4eah,1_034u9tpt/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La Esposa De Mi Jefe" tvg-logo="https://img1.static-ottera.com/prod/cnm/video/thumbnails/widescreen/960x540/la-esposa-de-mi-jefe-16x9-ivan.jpg" group-title="⭐⭐PELICULAS PICANTE⭐⭐",La Esposa De Mi Jefe (Picante Adult Romance Comedy)
+https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_pe1mm5p8/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_q3lqbzh3,1_88mdsoqa,1_w9ny0ijw,1_9rrisvwv,1_ida650gr,1_g1bsqqgs,1_vn0ms2pm,1_2ngq1pvg/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
 
 
